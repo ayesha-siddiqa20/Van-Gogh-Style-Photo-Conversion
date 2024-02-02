@@ -6,4 +6,4 @@ This project harnesses the power of artificial intelligence to transform modern 
 
 ## Results and Demonstrations
 
-![Sample Before and After Transformation](https://ibb.co/kKjSk96 "Before and After: Transforming Modern Photographs into Van Gogh's Style")
+![Sample Before and After Transformation](img1.png "Before and After: Transforming Modern Photographs into Van Gogh's Style")
